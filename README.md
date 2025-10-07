@@ -1,0 +1,1 @@
+# ebay-deletion-policy
